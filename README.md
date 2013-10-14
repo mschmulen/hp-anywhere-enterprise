@@ -1,5 +1,4 @@
-HP Kicks off its HPAnywhere Mobile Platform with an Enterprise hackathon
-=========
+Mobile developer review of the HPAnywhere Mobile Platform from this weekend's mobile enterprise hackathon
 
 ![Image](screenshots/splash700x400.png?raw=true)
 
