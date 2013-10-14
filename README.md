@@ -45,7 +45,7 @@ Hybrid web container strategies are popular with internal enterprise application
 
 Why so very ... well HP ?  
 
-The enterprise Hack was very well run, friendly and informative.  The technology was robust and very usable.  However,  It would have been great to see more Angular, Javascript, or web speakers at the conference to compliment the hybrid technologies they are using. The modern technology stack is mosaic of frameworks, tooling and vendors; requiring an equally open perspective.
+The enterprise Hack was very well run, friendly and informative.  The technology was robust and very usable.  However,  It would have been great to see more Angular, Javascript, or web speakers at the conference to compliment the hybrid technologies HPAnywhere developers will be using.  The modern technology stack is mosaic of frameworks, tooling and vendors; requiring an equally open perspective on community.
 
 ###Mobile Apps on HPAnywhere
 
