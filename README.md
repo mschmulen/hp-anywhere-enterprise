@@ -3,9 +3,8 @@ HP Kicks off its HPAnywhere Mobile Platform with an Enterprise Hackathon
 
 ![Image](screenshots/splash700x400.png?raw=true)
 
-This past weekend I attended the Mobile Enterprise Hack at [http://www.parisoma.com/] (Parimosa CoWorking space) in SOMA.  The event kicked off on Saturday with talks from HP outlining their new mobile app development platform, and ended with the Sunday selection for the over $20,000 in prizes and awards.
-
-The [http://www8.hp.com/us/en/software-solutions/mobile-application-development.html] (HPAnywhere Mobile App development platform) is an Eclipse IDE based Hybrid Web workflow that allows developers to build web apps leveraging HTML tooling and frameworks such as Angular, PhoneGap ( Cordova ) and Sencha Touch, Enyo and jQuery Mobile.  These applications are then deployed to the mobile device inside the HPAnywhere mobile catalog app available on the [https://itunes.apple.com/us/app/hp-anywhere/id624128594?mt=8] (Apple iTunes store) and [https://play.google.com/store/apps/details?id=com.hp.ee&hl=en] ( Google Android Play Market ).
+This past weekend I attended the Mobile Enterprise Hack at [http://www.parisoma.com/](Parimosa CoWorking space) in SOMA.
+The event kicked off on Saturday with talks from HP outlining their new mobile app development platform, and ended with the Sunday selection for the over $20,000 in prizes and awards. The [http://www8.hp.com/us/en/software-solutions/mobile-application-development.html] (HPAnywhere Mobile App development platform) is an Eclipse IDE based Hybrid Web workflow that allows developers to build web apps leveraging HTML tooling and frameworks such as Angular, PhoneGap ( Cordova ) and Sencha Touch, Enyo and jQuery Mobile.  These applications are then deployed to the mobile device inside the HPAnywhere mobile catalog app available on the [https://itunes.apple.com/us/app/hp-anywhere/id624128594?mt=8] (Apple iTunes store) and [https://play.google.com/store/apps/details?id=com.hp.ee&hl=en] ( Google Android Play Market ).
 
 The [http://developer.hpanywhere.com/] (hpAnywhere develper portal) has developer downloads, resources on getting started, and some simple sample applications to get you started.
 
