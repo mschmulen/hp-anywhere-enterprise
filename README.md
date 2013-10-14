@@ -1,22 +1,25 @@
-HP Kicks off its HPAnywhere Mobile Platform with an Enterprise Hackathon
+HP Kicks off its HPAnywhere Mobile Platform with an Enterprise hackathon
 =========
 
 ![Image](screenshots/splash700x400.png?raw=true)
 
 This past weekend I attended the Mobile Enterprise Hack at [Parimosa CoWorking space](http://www.parisoma.com/) in SOMA.
 The event kicked off on Saturday with talks from HP outlining their new mobile app development platform, and ended with the Sunday selection for the over $20,000 in prizes and awards. 
-The [HPAnywhere Mobile App development platform] (http://www8.hp.com/us/en/software-solutions/mobile-application-development.html ) is an Eclipse IDE based Hybrid Web workflow that allows developers to build web apps 
-leveraging HTML tooling and frameworks such as Angular, PhoneGap ( Cordova ) and Sencha Touch, Enyo and jQuery Mobile.  These applications are then deployed to the mobile device inside the HPAnywhere mobile catalog app available on 
-the [Apple iTunes store ] (https://itunes.apple.com/us/app/hp-anywhere/id624128594?mt=8) and [Google Android Play Market] (https://play.google.com/store/apps/details?id=com.hp.ee&hl=en).
 
-The [hpAnywhere develper portal ] (http://developer.hpanywhere.com/) has developer downloads, resources on getting started, and some simple sample applications to get you started.
+The [HPAnywhere Mobile App development platform] (http://www8.hp.com/us/en/software-solutions/mobile-application-development.html ) is an Eclipse IDE based Mobile Hybrid Web workflow that allows developers to build web apps 
+leveraging HTML tooling and frameworks such as Angular, PhoneGap ( Cordova ) and Sencha Touch, Enyo and jQuery Mobile that easily integrate with HP Cloud services and connectors.  These applications are then deployed to the HPAnywhere mobile catalog app available on 
+the [Apple iTunes store ] (https://itunes.apple.com/us/app/hp-anywhere/id624128594?mt=8) and [Google Android Play Market] (https://play.google.com/store/apps/details?id=com.hp.ee&hl=en).  The hybrid web app lives inside the HPAnywhere app with out there enterprise corporate applications.
 
-HPAnywhere leverages the web container to insure that end-point service requests are caught by the HP web container inside the application and modified to route securely to HPCloud services ( Hosted in the cloud or On-Premises ).  
-Additionally public facing end-points can be called from the web container.
+The [hpAnywhere developer portal ] (http://developer.hpanywhere.com/) has developer downloads, resources, and some simple sample applications to get you started.
 
-HPAnywhere cloud environment provides access to enterprise cloud connected services such as SalesForce, A and B; and also provides convenience services for storing user and application data, authentication, and device information.
+###Hybrid mobile web on HP infrastructure
+HPAnywhere leverages the web container to insure that end-point http service requests are caught by the HP web container inside the application and modified to route securely to [HP Web OS](http://www.hpwebos.com/us/) cloud services hosted in the corporate cloud or On-Premises.  Additionally public facing end-points can be called from the web container.
 
-Since the technology leverages [PhoneGap, Cordova] (  http://cordova.apache.org/) for the hybrid web bridge; giving you access to PhoneGap supported device services such as access to the camera, local storage, contacts, etc.
+HPAnywhere cloud environment provides access to enterprise cloud connected services such as SalesForce, and SAP; and also provides convenience services for storing user and application data, authentication, and device information.
+
+Since the technology leverages [PhoneGap, Cordova] (  http://cordova.apache.org/) for the hybrid mobile web bridge developers can access PhoneGap supported device services such as access to the camera, local storage, contacts, etc.
+
+###Experience
 
 I was able to install and stand up the sample application in a little over an hour ( mostly download time, JVM configuration, and of course waiting for eclipse to warm up and launch ).  I created a small sample app (working from the Angular template ) conforming 
 to the enterprise app theme that provided a Retails Sales floor manager access to a dashboard and quantitative metrics for the stores employees and customers in their loyalty program; more on that later.
