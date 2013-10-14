@@ -3,17 +3,17 @@ HP Kicks off its HPAnywhere Mobile Platform with an Enterprise Hackathon
 
 ![Image](screenshots/splash700x400.png?raw=true)
 
-This past weekend I attended the Mobile Enterprise Hack at [http://www.parisoma.com/](Parimosa CoWorking space) in SOMA.  The event kicked off on Saturday with talks from HP outlining their new mobile app development platform, and ended with the Sunday selection for the over $20,000 in prizes and awards.
+This past weekend I attended the Mobile Enterprise Hack at [http://www.parisoma.com/] (Parimosa CoWorking space) in SOMA.  The event kicked off on Saturday with talks from HP outlining their new mobile app development platform, and ended with the Sunday selection for the over $20,000 in prizes and awards.
 
-The [http://www8.hp.com/us/en/software-solutions/mobile-application-development.html](HPAnywhere Mobile App development platform) is an Eclipse IDE based Hybrid Web workflow that allows developers to build web apps leveraging HTML tooling and frameworks such as Angular, PhoneGap ( Cordova ) and Sencha Touch, Enyo and jQuery Mobile.  These applications are then deployed to the mobile device inside the HPAnywhere mobile catalog app available on the [https://itunes.apple.com/us/app/hp-anywhere/id624128594?mt=8](Apple iTunes store) and [https://play.google.com/store/apps/details?id=com.hp.ee&hl=en] ( Google Android Play Market ).
+The [http://www8.hp.com/us/en/software-solutions/mobile-application-development.html] (HPAnywhere Mobile App development platform) is an Eclipse IDE based Hybrid Web workflow that allows developers to build web apps leveraging HTML tooling and frameworks such as Angular, PhoneGap ( Cordova ) and Sencha Touch, Enyo and jQuery Mobile.  These applications are then deployed to the mobile device inside the HPAnywhere mobile catalog app available on the [https://itunes.apple.com/us/app/hp-anywhere/id624128594?mt=8] (Apple iTunes store) and [https://play.google.com/store/apps/details?id=com.hp.ee&hl=en] ( Google Android Play Market ).
 
-The [http://developer.hpanywhere.com/](hpAnywhere develper portal) has developer downloads, resources on getting started, and some simple sample applications to get you started.
+The [http://developer.hpanywhere.com/] (hpAnywhere develper portal) has developer downloads, resources on getting started, and some simple sample applications to get you started.
 
 HPAnywhere leverages the web container to insure that end-point service requests are caught by the HP web container inside the application and modified to route securely to HPCloud services ( Hosted in the cloud or On-Premises ).  Additionally public facing end-points can be called from the web container.
 
 HPAnywhere cloud environment provides access to enterprise cloud connected services such as SalesForce, A and B; and also provides convenience services for storing user and application data, authentication, and device information.
 
-Since the technology leverages [http://cordova.apache.org/]( PhoneGap, Cordova) for the hybrid web bridge; giving you access to PhoneGap supported device services such as access to the camera, local storage, contacts, etc.
+Since the technology leverages [http://cordova.apache.org/] ( PhoneGap, Cordova) for the hybrid web bridge; giving you access to PhoneGap supported device services such as access to the camera, local storage, contacts, etc.
 
 I was able to install and stand up the sample application in a little over an hour ( mostly download time, JVM configuration, and of course waiting for eclipse to warm up and launch ).  I created a small sample app (working from the Angular template ) conforming to the enterprise app theme that provided a Retails Sales floor manager access to a dashboard and quantitative metrics for the stores employees and customers in their loyalty program; more on that later.
 
