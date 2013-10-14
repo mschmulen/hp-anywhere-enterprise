@@ -48,6 +48,8 @@ An early screen shot of my app as I was hacking the code together during the eve
 
 I will make sure and publish my HPAnywhere sample application in a follow up post;  if you want to see the native Objective-C equivalent keep an eye out next week for the "Capturing BlueTooth Low Energy engagement analytics with Node.js " for a pure native iOS equivalent.
 
-In the meantime make sure and check out the Enteprise Hack winners at (Apps-for-Mobile)[http://h30499.www3.hp.com/t5/Apps-for-Mobile/That-s-a-wrap/ba-p/6234487#.Ulw2umRATHA] and ongoing updates on the (HP Apps for Mobile Blog )[http://h30499.www3.hp.com/t5/Apps-for-Mobile/bg-p/apps-for-mobile]
+In the meantime make sure and check out the Enteprise Hack winners at [Apps-for-Mobile](http://h30499.www3.hp.com/t5/Apps-for-Mobile/That-s-a-wrap/ba-p/6234487#.Ulw2umRATHA) and ongoing updates on the [HP Apps for Mobile Blog] (http://h30499.www3.hp.com/t5/Apps-for-Mobile/bg-p/apps-for-mobile)
+
+
 
 
